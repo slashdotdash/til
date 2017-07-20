@@ -16,3 +16,4 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 ## Elixir
 
 - [Ecto virtual field](elixir/ecto-virtual-field.md)
+- [Revert Hex package](elixir/revert-hex-package.md)
