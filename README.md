@@ -17,3 +17,4 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 
 - [Ecto virtual field](elixir/ecto-virtual-field.md)
 - [Revert Hex package](elixir/revert-hex-package.md)
+- [Travis CI Ecto migrations](elixir/travis-ci-ecto-migrations.md)
