@@ -16,6 +16,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 ## Elixir
 
 - [Ecto virtual field](elixir/ecto-virtual-field.md)
+- [ExUnit ignore tests](elixir/exunit_ignore_tests.md)
 - [GenServer name registration using `:via` option](elixir/genserver_name_registration.md)
 - [Revert Hex package](elixir/revert-hex-package.md)
 - [Travis CI Ecto migrations](elixir/travis-ci-ecto-migrations.md)
