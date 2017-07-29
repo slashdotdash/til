@@ -10,6 +10,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 ### Categories
 
 - [Elixir](#elixir)
+- [Linux](#linux)
 
 ---
 
