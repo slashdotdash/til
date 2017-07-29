@@ -21,3 +21,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Postgrex copy from STDIN](elixir/postgrex-copy-from-stdin.md)
 - [Revert Hex package](elixir/revert-hex-package.md)
 - [Travis CI Ecto migrations](elixir/travis-ci-ecto-migrations.md)
+
+## Linux
+
+- [systemd service configuration](linux/systemd-service-configuration.md)
