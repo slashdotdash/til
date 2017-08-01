@@ -18,6 +18,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 ## Elixir
 
 - [Ecto virtual field](elixir/ecto-virtual-field.md)
+- [Error handling in Elixir libraries](elixir/error-handling-in-libraries.md)
 - [ExUnit ignore tests](elixir/exunit-ignore-tests.md)
 - [GenServer name registration using `:via` option](elixir/genserver-name-registration.md)
 - [Postgrex copy from STDIN](elixir/postgrex-copy-from-stdin.md)
