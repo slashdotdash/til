@@ -34,3 +34,19 @@ defmodule YourLibrary do
     do: "#{inspect value} is not one"
 end
 ```
+
+Example pattern matching using the `with` special form:
+
+```elixir
+with {:ok, tokens} <- Redix.command(:redix, ~w(SMEMBERS tokens)),
+     {:ok, _} <- Postgrex.execute(:pg, "SELECT * FROM users", []) do
+  :ok
+else
+  {:error, %struct{} = exception} when struct in [Redix.Error, Redix.Connection.Error] ->
+    Logger.error "Redis error: #{Exception.message(exception)}"
+    :error
+  {:error, %Postgrex.Error{} = exception} ->
+    Logger.error "Postgres error: #{Exception.message(exception)}"
+    :error
+end
+```

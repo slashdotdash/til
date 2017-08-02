@@ -23,6 +23,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [GenServer name registration using `:via` option](elixir/genserver-name-registration.md)
 - [Postgrex copy from STDIN](elixir/postgrex-copy-from-stdin.md)
 - [Revert Hex package](elixir/revert-hex-package.md)
+- [Rollbar exception reporting for Phoenix](elixir/rollbar-exception-reporting-for-phoenix.md)
 - [Travis CI Ecto migrations](elixir/travis-ci-ecto-migrations.md)
 
 ## Git
