@@ -1,4 +1,4 @@
-# Synching a GitHub fork
+# Syncing a GitHub fork
 
 Sync a fork of a repository to keep it up-to-date with the upstream repository.
 

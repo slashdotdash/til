@@ -31,7 +31,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 ## Git
 
 - [Rebase root git commit](git/rebase-root-commit.md)
-- [Synching a GitHub fork](git/syncing-a-github-fork.md)
+- [Syncing a GitHub fork](git/syncing-a-github-fork.md)
 
 ## Linux
 
