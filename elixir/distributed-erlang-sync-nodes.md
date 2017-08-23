@@ -58,11 +58,11 @@ $ MIX_ENV=test iex --name node1@127.0.0.1 --erl "-config node1.sys.config" -S mi
 ```
 
 ```console
-MIX_ENV=test iex --name node2@127.0.0.1 --erl "-config node2.sys.config" -S mix
+$ MIX_ENV=test iex --name node2@127.0.0.1 --erl "-config node2.sys.config" -S mix
 ```
 
 ```console
-MIX_ENV=test iex --name node3@127.0.0.1 --erl "-config node3.sys.config" -S mix
+$ MIX_ENV=test iex --name node3@127.0.0.1 --erl "-config node3.sys.config" -S mix
 ```
 
 Once the third `iex` console has started, within the 30 second timeout, the three nodes will connect and then start your application.
