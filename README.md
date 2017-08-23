@@ -17,6 +17,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 
 ## Elixir
 
+- [Distributed Erlang sync nodes](elixir/distributed-erlang-sync-nodes.md)
 - [Ecto virtual field](elixir/ecto-virtual-field.md)
 - [Error handling in Elixir libraries](elixir/error-handling-in-libraries.md)
 - [ExUnit ignore tests](elixir/exunit-ignore-tests.md)
