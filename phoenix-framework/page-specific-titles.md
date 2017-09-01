@@ -22,15 +22,19 @@
     end
     ```
 
-3. Add a fallback `title/2` function used when there is no page specific title:
+3. Add a fallback `title/2` function used when there is no matching page specific title in a view module:
 
     ```elixir
     defmodule ExampleWeb.Helpers.Defaults do
       defmacro __using__(_) do
         quote do
-          def title(_view_template, _assigns), do: "Welcome to Example"
+          @before_compile unquote(__MODULE__)
+        end
+      end
 
-          defoverridable [title: 2]
+      defmacro __before_compile__(_env) do
+        quote do
+          def title(_view_template, _assigns), do: "Example"
         end
       end
     end
