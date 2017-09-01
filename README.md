@@ -28,6 +28,10 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Running Ecto database migrations during deployment](elixir/running-ecto-migrations-during-deployment.md)
 - [Travis CI Ecto migrations](elixir/travis-ci-ecto-migrations.md)
 
+### Phoenix framework
+
+- [Page specific titles](phoenix-framework/page-specific-titles.md)
+
 ## Git
 
 - [Rebase root git commit](git/rebase-root-commit.md)
