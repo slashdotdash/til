@@ -29,6 +29,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Rollbar exception reporting for Phoenix](elixir/rollbar-exception-reporting-for-phoenix.md)
 - [Running Ecto database migrations during deployment](elixir/running-ecto-migrations-during-deployment.md)
 - [Travis CI Ecto migrations](elixir/travis-ci-ecto-migrations.md)
+- [Use monotonic time for timing](elixir/monotonic-time.md)
 
 ### Phoenix framework
 
