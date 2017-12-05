@@ -44,3 +44,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 ## Linux
 
 - [systemd service configuration](linux/systemd-service-configuration.md)
+
+## Mac
+
+- [Increase open file limit](mac/increase-open-file-limit.md)
