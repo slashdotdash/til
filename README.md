@@ -22,6 +22,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Error handling in Elixir libraries](elixir/error-handling-in-libraries.md)
 - [ExUnit ignore tests](elixir/exunit-ignore-tests.md)
 - [GenServer name registration using `:via` option](elixir/genserver-name-registration.md)
+- [Install Elixir and Erlang with `asdf` version manager](elixir/install-elixir-with-asdf.md)
 - [Postgrex copy from STDIN](elixir/postgrex-copy-from-stdin.md)
 - [Running Observer on a remote node deployed with Distillery](elixir/remote-observer-distillery-release.md)
 - [Read from the application's directory](elixir/path_from_app_dir.md)
