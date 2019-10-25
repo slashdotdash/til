@@ -54,3 +54,4 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 ## Postgres
 
 - [Formatting timestamps](postgres/formatting-timestamps.md)
+- [Gapless sequence in Postgres](postgres-gapless-sequences.md)
