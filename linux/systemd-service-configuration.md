@@ -5,7 +5,7 @@
 List available services:
 
 ```console
-$ ls /lib/systemd/system/
+$ systemctl list-unit-files
 ```
 
 Show system status:
@@ -16,7 +16,7 @@ $ systemctl status
 
 ### Create a new service
 
-Create the `foo` service config file in `/lib/systemd/system/foo.service`:
+Create the `foo` service config file in `/etc/systemd/system/foo.service`:
 
 ```
 [Unit]
