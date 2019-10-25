@@ -10,8 +10,11 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 ### Categories
 
 - [Elixir](#elixir)
+  - [Phoenix framework](#phoenix-framework)
 - [Git](#git)
 - [Linux](#linux)
+- [Mac](#mac)
+- [Postgres](#postgres)
 
 ---
 
