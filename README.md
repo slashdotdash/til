@@ -23,6 +23,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Distributed Erlang sync nodes](elixir/distributed-erlang-sync-nodes.md)
 - [Ecto virtual field](elixir/ecto-virtual-field.md)
 - [Error handling in Elixir libraries](elixir/error-handling-in-libraries.md)
+- [Exception message](elixir/exception-message.md)
 - [ExUnit ignore tests](elixir/exunit-ignore-tests.md)
 - [GenServer name registration using `:via` option](elixir/genserver-name-registration.md)
 - [Install Elixir and Erlang with `asdf` version manager](elixir/install-elixir-with-asdf.md)
