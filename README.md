@@ -35,6 +35,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Revert Hex package](elixir/revert-hex-package.md)
 - [Rollbar exception reporting for Phoenix](elixir/rollbar-exception-reporting-for-phoenix.md)
 - [Running Ecto database migrations during deployment](elixir/running-ecto-migrations-during-deployment.md)
+- [Start an Elixir application's dependencies](elixir/start-application-dependencies.md)
 - [Travis CI Ecto migrations](elixir/travis-ci-ecto-migrations.md)
 - [Use Ecto's UTC datetime type](elixir/use-ecto-utc-datetime.md)
 - [Use monotonic time for timing](elixir/monotonic-time.md)
