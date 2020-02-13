@@ -64,3 +64,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Formatting timestamps](postgres/formatting-timestamps.md)
 - [Gapless sequence in Postgres](postgres/gapless-sequence.md)
 - [Recreate Postgres schema](postgres/recreate-postgres-schema.md)
+
+## Shell scripting
+
+- [Exit codes](shell-scripting/exit-codes.md)

@@ -1,6 +1,6 @@
 # Use monotonic time for timing
 
-You should use Erlang's [monotonic_time](http://erlang.org/doc/man/erlang.html#monotonic_time-0) for timing since it is no affected by OS clock changes.
+You should use Erlang's [monotonic_time](http://erlang.org/doc/man/erlang.html#monotonic_time-0) for timing since it is not affected by OS clock changes.
 
 This is [used internally](http://erlang.org/doc/apps/erts/time_correction.html#Erlang_Monotonic_Time) as the "time engine" for almost all Erlang's time based processing.
 
