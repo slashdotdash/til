@@ -15,6 +15,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Linux](#linux)
 - [Mac](#mac)
 - [Postgres](#postgres)
+- [Shell scripting](#shell-scripting)
 
 ---
 
@@ -25,6 +26,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Ecto virtual field](elixir/ecto-virtual-field.md)
 - [Error handling in Elixir libraries](elixir/error-handling-in-libraries.md)
 - [Exception message](elixir/exception-message.md)
+- [ExUnit assert match](elixir/exunit-assert-match.md)
 - [ExUnit ignore tests](elixir/exunit-ignore-tests.md)
 - [GenServer name registration using `:via` option](elixir/genserver-name-registration.md)
 - [Install Elixir and Erlang with `asdf` version manager](elixir/install-elixir-with-asdf.md)
