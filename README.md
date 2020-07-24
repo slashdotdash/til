@@ -21,6 +21,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 
 ## Elixir
 
+- [Distributed Erlang](elixir/distributed-erlang.md)
 - [Distributed Erlang sync nodes](elixir/distributed-erlang-sync-nodes.md)
 - [Dynamic supervisor start children](elixir/dynamic-supervisor-start-children.md)
 - [Ecto virtual field](elixir/ecto-virtual-field.md)

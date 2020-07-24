@@ -14,7 +14,7 @@ Following the [install from source](https://docs.timescale.com/latest/getting-st
     ```shell
     git clone https://github.com/timescale/timescaledb.git
     cd timescaledb
-    git checkout 1.6.0
+    git checkout 1.7.2
     ```
 
 3. Build Timescale extension:

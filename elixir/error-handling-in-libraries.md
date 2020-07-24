@@ -20,6 +20,7 @@ defmodule YourLibrary do
 
   def get_one(1),
     do: {:ok, "one"}
+    
   def get_one(value),
     do: {:error, {:not_one, value}}
 
