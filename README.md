@@ -27,6 +27,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Ecto virtual field](elixir/ecto-virtual-field.md)
 - [Error handling in Elixir libraries](elixir/error-handling-in-libraries.md)
 - [Exception message](elixir/exception-message.md)
+- [External resource module attribute](elixir/external-resource-module-attribute.md)
 - [ExUnit assert match](elixir/exunit-assert-match.md)
 - [ExUnit ignore tests](elixir/exunit-ignore-tests.md)
 - [`GenServer` hibernate after start option](elixir/gen_server_hibernate_after_start_option.md)
