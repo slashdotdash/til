@@ -60,9 +60,10 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 
 - [systemd service configuration](linux/systemd-service-configuration.md)
 
-## Mac
+## macOS
 
 - [Increase open file limit](mac/increase-open-file-limit.md)
+- [macOS sleep and wake](mac/mac-sleep-wake.md)
 
 ## Postgres
 
