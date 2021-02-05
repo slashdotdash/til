@@ -31,7 +31,7 @@ Ecto's Repo doesn't expose the database connection process which is used to acce
     ```elixir
     Ecto.Multi.new()
     |> Ecto.Multi.run(:query, fn repo, _changes ->
-      %{pid: pool} = Ecto.Adapter.lookup_meta(Repo)
+      %{pid: pool} = Ecto.Adapter.lookup_meta(repo)
 
       conn = Process.get({Ecto.Adapters.SQL, pool})
 

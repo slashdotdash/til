@@ -31,6 +31,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [External resource module attribute](elixir/external-resource-module-attribute.md)
 - [ExUnit assert match](elixir/exunit-assert-match.md)
 - [ExUnit ignore tests](elixir/exunit-ignore-tests.md)
+- [Graceful shutdown](elixir/graceful_shutdown.md)
 - [`GenServer` hibernate after start option](elixir/gen_server_hibernate_after_start_option.md)
 - [`GenServer` name registration using `:via` option](elixir/genserver-name-registration.md)
 - [Install Elixir and Erlang with `asdf` version manager](elixir/install-elixir-with-asdf.md)
