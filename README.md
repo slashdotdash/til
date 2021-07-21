@@ -24,8 +24,9 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Distributed Erlang](elixir/distributed-erlang.md)
 - [Distributed Erlang sync nodes](elixir/distributed-erlang-sync-nodes.md)
 - [Dynamic supervisor start children](elixir/dynamic-supervisor-start-children.md)
-- [Ecto virtual field](elixir/ecto-virtual-field.md)
+- [Ecto stream to list](elixir/ecto-stream-to-list.md)
 - [Ecto Repo's connection process](elixir/ecto-repo-connection-process.md)
+- [Ecto virtual field](elixir/ecto-virtual-field.md)
 - [Error handling in Elixir libraries](elixir/error-handling-in-libraries.md)
 - [Exception message](elixir/exception-message.md)
 - [External resource module attribute](elixir/external-resource-module-attribute.md)
@@ -51,6 +52,10 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 ### Phoenix framework
 
 - [Page specific titles](phoenix-framework/page-specific-titles.md)
+
+## Julia
+
+- [Getting started with Julia](julia/getting-started.md)
 
 ## Git
 

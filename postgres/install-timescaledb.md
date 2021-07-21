@@ -14,7 +14,7 @@ Following the [install from source](https://docs.timescale.com/latest/getting-st
     ```shell
     git clone https://github.com/timescale/timescaledb.git
     cd timescaledb
-    git checkout 1.7.2
+    git checkout 2.3.1
     ```
 
 3. Build Timescale extension:
@@ -48,4 +48,35 @@ Following the [install from source](https://docs.timescale.com/latest/getting-st
 
     ```sql
     CREATE EXTENSION IF NOT EXISTS "timescaledb" CASCADE;
+    ```
+
+## Check which Timescale version is installed
+
+```SQL
+SELECT default_version, installed_version
+FROM pg_available_extensions
+WHERE name = 'timescaledb';
+```
+
+## Upgrade an existing Timescale database
+
+1. Follow the steps 2, 3, and 4 in the "Install TimescaleDB with Postgres.app" section above, but checkout the updated Timescale version:
+
+    ```bash
+    cd timescaledb
+    git checkout 2.3.1
+    ```
+
+    ... then run steps 3 and 4 above.
+
+2. Connect to the Timescale database using `psql -X`:
+
+    ```bash
+    psql -X -d <database>
+    ```
+
+3. Upgrade Timescale extension:
+
+    ```SQL
+    ALTER EXTENSION timescaledb UPDATE;
     ```
