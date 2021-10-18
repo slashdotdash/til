@@ -30,8 +30,6 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Error handling in Elixir libraries](elixir/error-handling-in-libraries.md)
 - [Exception message](elixir/exception-message.md)
 - [External resource module attribute](elixir/external-resource-module-attribute.md)
-- [ExUnit assert match](elixir/exunit-assert-match.md)
-- [ExUnit ignore tests](elixir/exunit-ignore-tests.md)
 - [Graceful shutdown](elixir/graceful_shutdown.md)
 - [`GenServer` hibernate after start option](elixir/gen_server_hibernate_after_start_option.md)
 - [`GenServer` name registration using `:via` option](elixir/genserver-name-registration.md)
@@ -48,6 +46,12 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Travis CI Ecto migrations](elixir/travis-ci-ecto-migrations.md)
 - [Use Ecto's UTC datetime type](elixir/use-ecto-utc-datetime.md)
 - [Use monotonic time for timing](elixir/monotonic-time.md)
+
+### ExUnit
+
+- [ExUnit assert match](elixir/ex_unit/assert-match.md)
+- [ExUnit capture log level](elixir/ex_unit/capture-log-level.md)
+- [ExUnit ignore tests](elixir/ex_unit/ignore-tests.md)
 
 ### Phoenix framework
 
@@ -77,6 +81,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Formatting timestamps](postgres/formatting-timestamps.md)
 - [Gapless sequence in Postgres](postgres/gapless-sequence.md)
 - [Install TimescaleDB with Postgres.app](postgres/install-timescaledb.md)
+- [List tables in a Postgres schema](postgres/list-tables-in-schema.md)
 - [Recreate Postgres schema](postgres/recreate-postgres-schema.md)
 
 ## Shell scripting
