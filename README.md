@@ -38,6 +38,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Postgrex copy from STDIN](elixir/postgrex-copy-from-stdin.md)
 - [Running Observer on a remote node deployed with Distillery](elixir/remote-observer-distillery-release.md)
 - [Read from the application's directory](elixir/path-from-app-dir.md)
+- [Remove unused dependencies from `mix.lock`](elixir/remove-unused-dependencies-from-mix-lock.md)
 - [Revert Hex package](elixir/revert-hex-package.md)
 - [Rollbar exception reporting for Phoenix](elixir/rollbar-exception-reporting-for-phoenix.md)
 - [Running Ecto database migrations during deployment](elixir/running-ecto-migrations-during-deployment.md)
