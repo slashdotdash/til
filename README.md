@@ -10,7 +10,9 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 ### Categories
 
 - [Elixir](#elixir)
+  - [ExUnit](#exunit)
   - [Phoenix framework](#phoenix-framework)
+- [Erlang](#erlang)
 - [Git](#git)
 - [Linux](#linux)
 - [Mac](#mac)
@@ -36,6 +38,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Install Elixir and Erlang with `asdf` version manager](elixir/install-elixir-with-asdf.md)
 - [Pattern match struct name](elixir/pattern-match-struct-name.md)
 - [Postgrex copy from STDIN](elixir/postgrex-copy-from-stdin.md)
+- [Process links](elixir/process-links.md)
 - [Running Observer on a remote node deployed with Distillery](elixir/remote-observer-distillery-release.md)
 - [Read from the application's directory](elixir/path-from-app-dir.md)
 - [Remove unused dependencies from `mix.lock`](elixir/remove-unused-dependencies-from-mix-lock.md)
@@ -57,6 +60,10 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 ### Phoenix framework
 
 - [Page specific titles](phoenix-framework/page-specific-titles.md)
+
+## Erlang
+
+- [Erlang version](erlang/erlang_version.md)
 
 ## Julia
 
