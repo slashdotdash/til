@@ -48,7 +48,7 @@ The above `DynamicSupervisor` can be started by a supervisor in addition to a ta
 ```elixir
 children = [
   ExampleDynamicSupervisor,
-  {Task, &ExampleDynamicSupervisor.start_children/0}
+  Supervisor.child_spec({Task, &ExampleDynamicSupervisor.start_children/0}, restart: :transient)
 ]
 
 opts = [strategy: :rest_for_one]

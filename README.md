@@ -7,20 +7,6 @@ variety of languages and technologies.
 
 Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://github.com/jbranchaud/til).
 
-### Categories
-
-- [Elixir](#elixir)
-  - [ExUnit](#exunit)
-  - [Phoenix framework](#phoenix-framework)
-- [Erlang](#erlang)
-- [Git](#git)
-- [Linux](#linux)
-- [Mac](#mac)
-- [Postgres](#postgres)
-- [Shell scripting](#shell-scripting)
-
----
-
 ## Elixir
 
 - [Distributed Erlang](elixir/distributed-erlang.md)
@@ -39,6 +25,7 @@ Inspired by [Josh Branchaud's](https://github.com/jbranchaud) [til](https://gith
 - [Pattern match struct name](elixir/pattern-match-struct-name.md)
 - [Postgrex copy from STDIN](elixir/postgrex-copy-from-stdin.md)
 - [Process links](elixir/process-links.md)
+- [Running Erlang's observer on macOS](elixir/erlang-observer-on-macos.md)
 - [Running Observer on a remote node deployed with Distillery](elixir/remote-observer-distillery-release.md)
 - [Read from the application's directory](elixir/path-from-app-dir.md)
 - [Remove unused dependencies from `mix.lock`](elixir/remove-unused-dependencies-from-mix-lock.md)
